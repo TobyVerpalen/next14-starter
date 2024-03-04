@@ -3,6 +3,3 @@ const Home = () => {
 };
 
 export default Home;
-
- git config --global user.name "TobyVerpalen"
- git config --global user.email tobyverpalen@gmail.com
