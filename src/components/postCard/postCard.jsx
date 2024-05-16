@@ -7,7 +7,7 @@ const PostCard = () => {
     <div className={styles.container}>
         <div className={styles.top}>
             <div className={styles.imgContainer}>
-                <Image src="/post.png" alt="" className={styles.img}/>
+                <Image src="https://images.pexels.com/photos/13298586/pexels-photo-13298586.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2" alt="" fill className={styles.img}/>
             </div>
             <span className={styles.date}>01.01.2024</span>
         </div>
